@@ -4,7 +4,7 @@ import PlaygroundSupport
 import SpriteKit
 
 class GameScene: SKScene {
-    
+    var test = "тест"
     private var label : SKLabelNode!
     private var spinnyNode : SKShapeNode!
     
